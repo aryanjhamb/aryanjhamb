@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=40&center=true&vCenter=true&height=60&width=700&lines=👋+Hola+Amigo!;😎+Kese+Ho?;✨+Thik+Ho;" alt="Typing animation" />
+
+</div>
+
+
+
 # 💫 Hi 👋, I'm   Aryan Jhamb
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanjhamb1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanjhamb.it26@gmail.com) 
