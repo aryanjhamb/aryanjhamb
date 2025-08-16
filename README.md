@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=40&center=true&vCenter=true&height=60&width=700&lines=👋+Hola+Amigo!;😎+Kese+Ho?;✨+Thik+Ho;" alt="Typing animation" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=40&center=true&vCenter=true&height=60&width=700&lines=👋+नमस्ते+दोस्त!;👋+Hello+Friend!;👋+مرحبا+صديقي!;👋+Bonjour+Ami!;👋+Hallo+Freund!;👋+Ciao+Amico!;👋+Olá+Amigo!;👋+Привет+Друг!;👋+你好+朋友!;👋+こんにちは+友達!;👋+안녕+친구!;👋+Merhaba+Arkadaş!" alt="Typing animation" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=40&center=true&vCenter=true&height=60&width=700&duration=2000&pause=400&lines=👋+नमस्ते+दोस्त!;👋+Hello+Friend!;👋+مرحبا+صديقي!;👋+Bonjour+Ami!;👋+Hallo+Freund!;👋+Ciao+Amico!;👋+Olá+Amigo!;👋+Привет+Друг!;👋+你好+朋友!;👋+こんにちは+友達!;👋+안녕+친구!;👋+Merhaba+Arkadaş!" alt="Typing animation" />
+
 
 </div>
 
